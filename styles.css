@@ -1,7 +1,13 @@
+html
+{
+	background-color: #1C2331
+}
+
 html, body
 {
 	height: 100%;
 }
+
 p
 {
 	color: white;
