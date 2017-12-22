@@ -1,18 +1,24 @@
-html
+html, body
 {
-	background-color: #263238;
+	height: 100%;
 }
-
 p
 {
-	opacity=1.0;
 	color: white;
-	text-align: center;
+	font-family: "Segoe UI";
+	font-size: 20px;
+}
+
+li
+{
+	color: white;
+	font-family: "Segoe UI";
+	font-size: 20px;
+	margin-bottom:3%;
 }
 
 h1
 {
-	opacity=1.0;
 	font-size: 24px;
 	font-family: Verdana;
 	color: white;
@@ -21,11 +27,16 @@ h1
 
 h2
 {
-	opacity=1.0;
 	margin-top: -10px;
 	font-size: 24px;
 	font-family: "Segoe UI";
 	color: white;
 	text-align: center;
+	font-weight: lighter;
+}
+
+h3
+{
+	font-family: "Segoe UI";
 	font-weight: lighter;
 }
